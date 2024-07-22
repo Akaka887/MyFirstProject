@@ -1,0 +1,9 @@
+env/
+photos/
+db.sqlite3
+token.txt
+*.pyc
+*~
+pycache
+static/
+.DS_Store
